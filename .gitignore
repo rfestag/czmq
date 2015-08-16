@@ -108,3 +108,4 @@ czmq_selftest*
 makecert
 test-suite.log
 *.pyc
+*.gem
